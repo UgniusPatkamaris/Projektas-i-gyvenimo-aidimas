@@ -29,4 +29,4 @@ Papildomi balai:
 // Pakeisti nustatymai per visual studio
 // ISO C++20 Standard (/std:c++20)
 // Warning level: Level4
-// Treat warnings as errors: yes
+// Treat warnings as errors: no
