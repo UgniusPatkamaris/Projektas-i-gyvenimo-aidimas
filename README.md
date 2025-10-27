@@ -26,7 +26,10 @@ Papildomi balai:
 11. ASCII menas: titulinio ekrano, ivykiu ar zaidimo pabaigos ekranams.
 
 
-// Pakeisti nustatymai per visual studio
-// ISO C++20 Standard (/std:c++20)
-// Warning level: Level4
-// Treat warnings as errors: no
+Pakeisti nustatymai per visual studio
+
+ISO C++20 Standard (/std:c++20)
+
+Warning level: Level4
+
+Treat warnings as errors: no
